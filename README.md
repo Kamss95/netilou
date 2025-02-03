@@ -1,2 +1,1 @@
-# netilou
-netplan
+wsl --installl
