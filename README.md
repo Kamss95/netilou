@@ -40,7 +40,7 @@ wsl --installl
      Remonter d’un niveau : cd ..
 
     Ps:
-    La commande ps affiche les processus en cours d’exécution sur le système. Par exemple :
+    La commande ps affiche les processus en cours d’exécution sur le système. Par exemple : 123
 
         Voir tous les processus : ps aux
 
